@@ -1,5 +1,6 @@
 # TernarySearchTrie
 Java implementation of a Ternary Search Trie data struture. 
+[Wikipedia](https://en.wikipedia.org/wiki/Ternary_search_tree)
 
 ## Usage
 
