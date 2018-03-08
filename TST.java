@@ -19,34 +19,6 @@ import java.util.Calendar;
 
 public class TST<Value> {
 
-  /*
-   * Bus Service Questions:
-   * 1. How many unique destinations is there in the file?
-   *    51.
-
-   * 2. Is there a bus going to the destination "SOUTHSIDE"?
-   *    No.
-
-   * 3. How many records is there about the buses going to the destination beginning with "DOWN"?
-   *    Only destination is 'DOWNTOWN' which has 70 records.
-   *
-   * Google Books Common Words Questions:
-   * 4. How many words is there in the file?
-   *    96765
-
-   * 5. What is the frequency of the word "ALGORITHM"?
-   *    14433021
-
-   * 6. Is the word "EMOJI" present?
-   *    No.
-
-   * 7. IS the word "BLAH" present?
-   *    No.
-   
-   * 8. How many words are there that start with "TEST"?
-   *    38
-   */
-
   //Implemented using Sedgewick and Waynes version found here https://algs4.cs.princeton.edu/52trie/TST.java.html
   
 
