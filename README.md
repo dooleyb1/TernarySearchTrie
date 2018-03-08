@@ -1,7 +1,7 @@
 # TernarySearchTrie
 Java implementation of a Ternary Search Trie data struture. 
 
-# Usage
+###### Usage
 
 To begin with compile all java files.
 ```
